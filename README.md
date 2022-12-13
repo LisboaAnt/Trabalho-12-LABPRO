@@ -2,7 +2,7 @@
 
 > Projeto construído para LABORATÓRIO DE PROGRAMAÇÃO(UFC).
 
-Você pode acessar o site pelo link : [https://github.com/lisboaGOD/Trabalho-12-LABPRO](https://github.com/lisboaGOD/Trabalho-12-LABPRO).
+Você pode acessar o link : [https://github.com/lisboaGOD/Trabalho-12-LABPRO](https://github.com/lisboaGOD/Trabalho-12-LABPRO).
 
 
 ## Goal

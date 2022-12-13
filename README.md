@@ -6,15 +6,15 @@ Você pode acessar o site pelo link : [https://github.com/lisboaGOD/Code-03-LABP
 
 
 ## Goal
- -Use the files "codesabe.c" "ordvetor.h" to create a file in ".c" that generates a vector, modify it, being able to remove it and add it.
+ -Make a structure for a heap. In addition to creating functions to insert and remove numbers in a way that respects its principles.
 
 
 ## 🛠 Technologies
 
 - c pure
 
-## ⬇️ Download
--You must download the files "codesabe.c", "ordvetor.h", "code.c" placing them in the same folder. To run code you must run the file "code.c" is executable with gcc     or higher.
+## ⬇️ Download and Execute  -Need ggc 6.0 or + to work.-
+-You must download the files "basemain.c", "heap.h", "main.c" placing them in the same folder. To run the code you must run the file "basemain.c" (generate a file basemain.o), then you must run the following command "gcc ./basemain.o ./main. c -o main" lastly, you must run the "main.exe" that was generated.
 
 ## 💛 Contact
 

@@ -1,14 +1,12 @@
-# Trabalho 10 - LAB PROG-
+# Trabalho 11 - LAB PROG-
 
 > Projeto construído para LABORATÓRIO DE PROGRAMAÇÃO(UFC).
 
-Você pode acessar o site pelo link : [https://github.com/lisboaGOD/Trabalho-10-LABPRO.git](https://github.com/lisboaGOD/Trabalho-10-LABPRO.git).
+Você pode acessar o site pelo link : [https://github.com/lisboaGOD/Code-03-LABPRO.git](https://github.com/lisboaGOD/Code-03-LABPRO.git).
 
 
 ## Goal
- -The program reads integers that are entered by the user (integers between
-    0 and 5000 ). When the user enters -1, the program must print all the numbers typed in order
-    (increasing) and without the repetitions!
+ -Use the files "codesabe.c" "ordvetor.h" to create a file in ".c" that generates a vector, modify it, being able to remove it and add it.
 
 
 ## 🛠 Technologies
@@ -16,7 +14,7 @@ Você pode acessar o site pelo link : [https://github.com/lisboaGOD/Trabalho-10-
 - c pure
 
 ## ⬇️ Download
--You must download the file Code.c. To run code you must run the file "Code.c" is executable with gcc 6.0 or higher.
+-You must download the files "codesabe.c", "ordvetor.h", "code.c" placing them in the same folder. To run code you must run the file "code.c" is executable with gcc     or higher.
 
 ## 💛 Contact
 
